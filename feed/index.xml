@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Mar 2021 18:39:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 19:15:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -675,6 +675,43 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
 										<img width="640" height="576" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/16.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/16.png 807w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/16-300x270.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/16-768x691.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6325f8a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6325f8a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4c98009" data-id="4c98009" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-45f052d elementor-widget elementor-widget-text-editor" data-id="45f052d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Now we will select some subset from the dataframe</p><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: 'Roboto Mono', Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: #f7f7f7; border: none; border-radius: 2px; white-space: pre-wrap;"><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">species</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">=</span> <span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">iris</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">[</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #ba2121;">"Species"</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">]</span>
+<span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #008000;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; cursor: pointer;">print</a></span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">(</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; cursor: pointer;">species</a></span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">)</span>
+<span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #008000;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; cursor: pointer;">type</a></span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">(</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; cursor: pointer;">species</a></span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">)</span></pre></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-49c2308 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49c2308" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ec02ea" data-id="5ec02ea" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2b9d107 elementor-widget elementor-widget-image" data-id="2b9d107" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="291" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/17.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/17.png 806w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/17-300x136.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/17-768x349.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
 				</div>
 				</div>
 						</div>
