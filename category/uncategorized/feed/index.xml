@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Mar 2021 22:13:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 23:02:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>A Tutorial to start your Journey into the world of GANs</title>
+		<link>https://salmaneunus27.github.io/Engineer/2021/03/09/a-tutorial-to-start-your-journey-into-the-world-of-gans/</link>
+				<comments>https://salmaneunus27.github.io/Engineer/2021/03/09/a-tutorial-to-start-your-journey-into-the-world-of-gans/#respond</comments>
+				<pubDate>Tue, 09 Mar 2021 22:59:39 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://salmaneunus27.github.io/Engineer/?p=574</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://salmaneunus27.github.io/Engineer/2021/03/09/a-tutorial-to-start-your-journey-into-the-world-of-gans/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>An in-depth Analysis of the Iris Dataset</title>
 		<link>https://salmaneunus27.github.io/Engineer/2021/03/09/blog-1/</link>
 				<comments>https://salmaneunus27.github.io/Engineer/2021/03/09/blog-1/#respond</comments>
@@ -906,6 +920,41 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
 										<img width="608" height="334" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/22.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/22.png 608w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/22-300x165.png 300w" sizes="(max-width: 608px) 100vw, 608px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-98edb54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="98edb54" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ca46bf" data-id="5ca46bf" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ad8b44d elementor-widget elementor-widget-text-editor" data-id="ad8b44d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: 'Roboto Mono', Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: #f7f7f7; border: none; border-radius: 2px; white-space: pre-wrap;"><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">#chooses all the species with sepal length greater than 6</span></pre><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: 'Roboto Mono', Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: #f7f7f7; border: none; border-radius: 2px; white-space: pre-wrap;"><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">iris</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">.</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">loc</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">[</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">iris</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">[</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #bb2323;">'SepalLengthCm'</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">]</span> <span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">&gt;</span> <span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #666666;">6</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">,</span> <span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">[</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #bb2323;">'Species'</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">]]</span></pre></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e58a722 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e58a722" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-987ef1a" data-id="987ef1a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-186070c elementor-widget elementor-widget-image" data-id="186070c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="138" height="332" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/22-1.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/22-1.png 138w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/22-1-125x300.png 125w" sizes="(max-width: 138px) 100vw, 138px" />											</div>
 				</div>
 				</div>
 						</div>
