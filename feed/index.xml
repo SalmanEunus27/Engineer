@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Mar 2021 12:24:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 12:33:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,15 +29,15 @@
 </image> 
 	<item>
 		<title>An in-depth Analysis of the Iris Dataset</title>
-		<link>https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/</link>
-				<comments>https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/#respond</comments>
+		<link>https://salmaneunus27.github.io/Engineer/2021/03/09/blog-1/</link>
+				<comments>https://salmaneunus27.github.io/Engineer/2021/03/09/blog-1/#respond</comments>
 				<pubDate>Tue, 09 Mar 2021 12:08:12 +0000</pubDate>
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">https://salmaneunus27.github.io/Engineer/?p=393</guid>
 				<description><![CDATA[<p>The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his paper published in 1936. The data set consists of 50 samples from each of the three species of Iris as shown above in the picture. Four Features were measured from each sample &#8211; the [&#8230;]</p>
-<p>The post <a href="https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/">An in-depth Analysis of the Iris Dataset</a> first appeared on <a href="https://salmaneunus27.github.io/Engineer">Salman Ibne Eunus</a>.</p>]]></description>
+<p>The post <a href="https://salmaneunus27.github.io/Engineer/2021/03/09/blog-1/">An in-depth Analysis of the Iris Dataset</a> first appeared on <a href="https://salmaneunus27.github.io/Engineer">Salman Ibne Eunus</a>.</p>]]></description>
 								<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="393" class="elementor elementor-393" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -91,8 +91,8 @@
 		</section>
 						</div>
 						</div>
-					</div><p>The post <a href="https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/">An in-depth Analysis of the Iris Dataset</a> first appeared on <a href="https://salmaneunus27.github.io/Engineer">Salman Ibne Eunus</a>.</p>]]></content:encoded>
-							<wfw:commentRss>https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/feed/</wfw:commentRss>
+					</div><p>The post <a href="https://salmaneunus27.github.io/Engineer/2021/03/09/blog-1/">An in-depth Analysis of the Iris Dataset</a> first appeared on <a href="https://salmaneunus27.github.io/Engineer">Salman Ibne Eunus</a>.</p>]]></content:encoded>
+							<wfw:commentRss>https://salmaneunus27.github.io/Engineer/2021/03/09/blog-1/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
