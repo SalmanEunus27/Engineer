@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Mar 2021 17:41:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 17:48:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -195,7 +195,7 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f578ef0 elementor-widget elementor-widget-heading" data-id="f578ef0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><h1 style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-size: 24px; margin-top: 0px; margin-bottom: 8px; font-family: Inter, sans-serif; font-weight: 500; line-height: 1.4; color: rgb(0, 0, 0); white-space: normal;">Exploratory Data Analysis</h1></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-small"><h1 style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-size: 24px; margin-top: 0px; margin-bottom: 8px; font-family: Inter, sans-serif; font-weight: 500; line-height: 1.4; color: rgb(0, 0, 0); white-space: normal;">Exploratory Data Analysis</h1>Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.<p style="box-sizing: inherit; margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 16px; line-height: inherit; font-family: &quot;IBM Plex Sans&quot;, ibm-plex-sans, &quot;Helvetica Neue&quot;, Arial, sans-serif; color: rgb(82, 82, 82); font-weight: 400; white-space: normal;">EDA is primarily used to see what data can reveal beyond the formal modeling or hypothesis testing task and provides a provides a better understanding of data set variables and the relationships between them. It can also help determine if the statistical techniques you are considering for data analysis are appropriate. Originally developed by American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data discovery process today.</p></h2>		</div>
 				</div>
 						</div>
 					</div>
