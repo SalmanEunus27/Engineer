@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Jan 2021 20:55:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 12:24:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,73 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>An in-depth Analysis of the Iris Dataset</title>
+		<link>https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/</link>
+				<comments>https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/#respond</comments>
+				<pubDate>Tue, 09 Mar 2021 12:08:12 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://salmaneunus27.github.io/Engineer/?p=393</guid>
+				<description><![CDATA[<p>The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his paper published in 1936. The data set consists of 50 samples from each of the three species of Iris as shown above in the picture. Four Features were measured from each sample &#8211; the [&#8230;]</p>
+<p>The post <a href="https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/">An in-depth Analysis of the Iris Dataset</a> first appeared on <a href="https://salmaneunus27.github.io/Engineer">Salman Ibne Eunus</a>.</p>]]></description>
+								<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="393" class="elementor elementor-393" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0202ea2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0202ea2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b43d45b" data-id="b43d45b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0632ef6 elementor-widget elementor-widget-image" data-id="0632ef6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="239" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/download-1024x383.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/download-1024x383.png 1024w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/download-300x112.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/download-768x287.png 768w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/download.png 1275w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-72804c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="72804c0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e256314" data-id="e256314" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5585818 elementor-widget elementor-widget-text-editor" data-id="5585818" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="margin: 0.5em 0px; color: #202122; font-family: sans-serif;">The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his paper published in 1936. The data set consists of 50 samples from each of the three species of Iris as shown above in the picture. Four Features were measured from each sample &#8211; the length and width of the sepals and petals in centimeters.</p>
+<p style="margin: 0.5em 0px; color: #202122; font-family: sans-serif;">Lets dive into the analysis using python version 3 !</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-95ca2c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="95ca2c0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d83f0f" data-id="4d83f0f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div><p>The post <a href="https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/">An in-depth Analysis of the Iris Dataset</a> first appeared on <a href="https://salmaneunus27.github.io/Engineer">Salman Ibne Eunus</a>.</p>]]></content:encoded>
+							<wfw:commentRss>https://salmaneunus27.github.io/Engineer/2021/03/09/an-in-depth-analysis-of-the-iris-dataset/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
 </rss>
