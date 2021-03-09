@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Mar 2021 13:31:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 13:45:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -179,6 +179,117 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
 										<img width="640" height="528" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/1.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/1.png 801w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/1-300x248.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/1-768x634.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9af517e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9af517e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9a2aa3b" data-id="9a2aa3b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f578ef0 elementor-widget elementor-widget-heading" data-id="f578ef0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><h1 style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-size: 24px; margin-top: 0px; margin-bottom: 8px; font-family: Inter, sans-serif; font-weight: 500; line-height: 1.4; color: rgb(0, 0, 0); white-space: normal;">Exploratory Data Analysis</h1></h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8152a40 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8152a40" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a37cd5" data-id="2a37cd5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f6c9fcb elementor-widget elementor-widget-text-editor" data-id="f6c9fcb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-weight: bold; color: rgba(0, 0, 0, 0.7); font-family: Inter, sans-serif;">We will now explore the data to find useful information and insights from the data which will help us to prepare our machine learning model. Let us explore the data set at first using numpy library.</strong></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c889428 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c889428" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8e6673d" data-id="8e6673d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-96cd590 elementor-widget elementor-widget-text-editor" data-id="96cd590" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: 'Roboto Mono', Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: #f7f7f7; border: none; border-radius: 2px; white-space: pre-wrap;"><span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">arr</span> <span class="o" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">=</span> <span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">np</span><span class="o" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">.</span><span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a class="indexed_symbol global_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; cursor: pointer;">array</a></span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">(</span><span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">iris</span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">)</span>
+
+<span class="nb" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #008000;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #008abc;" name="kln-11"></a><a class="indexed_symbol global_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; cursor: pointer;">print</a></span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">(</span><span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">arr</span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">)</span></pre></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b743403 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b743403" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-35f30da" data-id="35f30da" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0332a10 elementor-widget elementor-widget-image" data-id="0332a10" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="671" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2.png 802w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2-286x300.png 286w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2-768x805.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b62e5b7 elementor-widget elementor-widget-image" data-id="b62e5b7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="653" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/4.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/4.png 808w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/4-294x300.png 294w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/4-768x783.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-da7705b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="da7705b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9987161" data-id="9987161" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b50735e elementor-widget elementor-widget-image" data-id="b50735e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="649" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/5.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/5.png 807w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/5-296x300.png 296w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/5-768x778.png 768w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/5-90x90.png 90w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-de9abfa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="de9abfa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a341176" data-id="a341176" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-eddef52 elementor-widget elementor-widget-text-editor" data-id="eddef52" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>The above output shows the whole data set up to 150 samples but it was shown partially in the image.</p></div>
 				</div>
 				</div>
 						</div>
