@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Mar 2021 12:38:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 12:55:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,8 +67,7 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-5585818 elementor-widget elementor-widget-text-editor" data-id="5585818" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p style="margin: 0.5em 0px; color: #202122; font-family: sans-serif;">The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his paper published in 1936. The data set consists of 50 samples from each of the three species of Iris as shown above in the picture. Four Features were measured from each sample &#8211; the length and width of the sepals and petals in centimeters.</p>
-<p style="margin: 0.5em 0px; color: #202122; font-family: sans-serif;">Lets dive into the analysis using python version 3 !</p></div>
+					<div class="elementor-text-editor elementor-clearfix"><p style="margin: 0.5em 0px; color: #202122; font-family: sans-serif;">The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his paper published in 1936. The data set consists of 50 samples from each of the three species of Iris as shown above in the picture. Four Features were measured from each sample &#8211; the length and width of the sepals and petals in centimeters.</p><p style="margin: 0.5em 0px; color: #202122; font-family: sans-serif;">Lets dive into the analysis using python version 3 !</p></div>
 				</div>
 				</div>
 						</div>
@@ -77,13 +76,37 @@
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-95ca2c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="95ca2c0" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1b65bdf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1b65bdf" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d83f0f" data-id="4d83f0f" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70f1f08" data-id="70f1f08" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-db06536 elementor-widget elementor-widget-heading" data-id="db06536" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Importing necessary libraries</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
 								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-61f3ae3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="61f3ae3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8ea016c" data-id="8ea016c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-864774d elementor-widget elementor-widget-text-editor" data-id="864774d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: &quot;Roboto Mono&quot;, Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: rgb(247, 247, 247); border: none; border-radius: 2px; white-space: pre-wrap;"><span class="kn" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">import</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">pandas</span> <span class="k" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">as</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a name="kln-1" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 138, 188);"></a><a class="indexed_symbol local_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit;">pd</a></span>
+<span class="kn" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">import</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">numpy</span> <span class="k" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">as</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a name="kln-2" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 138, 188);"></a><a class="indexed_symbol local_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit;">np</a></span>
+<span class="kn" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">import</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">seaborn</span> <span class="k" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">as</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a name="kln-3" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 138, 188);"></a><a class="indexed_symbol local_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit;">sns</a></span>
+<span class="kn" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">import</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">matplotlib.pyplot</span> <span class="k" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 123, 0);">as</span> <span class="nn" style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a name="kln-4" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgb(0, 138, 188);"></a><a class="indexed_symbol local_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit;">plt</a></span></pre></div>
+				</div>
+				</div>
+						</div>
 					</div>
 		</div>
 								</div>
