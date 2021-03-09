@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Mar 2021 18:04:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Mar 2021 18:17:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -535,6 +535,41 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
 										<img width="640" height="47" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/12.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/12.png 809w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/12-300x22.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/12-768x56.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f834a5a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f834a5a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f2fd002" data-id="f2fd002" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7881e2e elementor-widget elementor-widget-text-editor" data-id="7881e2e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>LLets see some data analysis using pandas.</p><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: 'Roboto Mono', Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: #f7f7f7; border: none; border-radius: 2px; white-space: pre-wrap;"><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; outline: 0px; cursor: pointer;">#This code prints the first five rows in the data set in tabular form</a></span></pre><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: 'Roboto Mono', Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: #f7f7f7; border: none; border-radius: 2px; white-space: pre-wrap;"><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; outline: 0px; cursor: pointer;">iris</a></span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">.</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">head</span><span style="text-rendering: auto; -webkit-font-smoothing: antialiased;">()</span></pre></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-74a9320 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74a9320" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9b375bc" data-id="9b375bc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-83e6e6d elementor-widget elementor-widget-image" data-id="83e6e6d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="551" height="147" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/13.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/13.png 551w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/13-300x80.png 300w" sizes="(max-width: 551px) 100vw, 551px" />											</div>
 				</div>
 				</div>
 						</div>
