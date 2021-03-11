@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Wed, 10 Mar 2021 01:06:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Mar 2021 08:56:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1116,6 +1116,75 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
 										<img width="640" height="638" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2b.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2b.png 889w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2b-300x300.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2b-150x150.png 150w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2b-768x765.png 768w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/2b-90x90.png 90w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e4dd99a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4dd99a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-51fbffa" data-id="51fbffa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d0d422c elementor-widget elementor-widget-heading" data-id="d0d422c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Data Visualization</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dd3e7eb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dd3e7eb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-105f443" data-id="105f443" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-96b704b elementor-widget elementor-widget-text-editor" data-id="96b704b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>We will know plot some graphs to get some insights from the data uding seaborn.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e605a4a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e605a4a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4f548e" data-id="f4f548e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bed6b15 elementor-widget elementor-widget-text-editor" data-id="bed6b15" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><pre style="text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: 'Roboto Mono', Monaco, Consolas, monospace; font-size: 14px; padding: 0px; margin-top: 0px; margin-bottom: 0px; line-height: 1.7; word-break: break-all; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.7); background-color: #f7f7f7; border: none; border-radius: 2px; white-space: pre-wrap;"><span class="c1" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgba(0, 0, 0, 0.4); font-style: italic;">#This is a multivariate plot</span>
+<span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #008abc;" name="kln-50"></a><a class="indexed_symbol local_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit;">sns</a></span><span class="o" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">.</span><span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;"><a class="indexed_symbol global_indexed_symbol" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: inherit; text-decoration-line: underline; text-decoration-style: dashed; text-decoration-color: #86dcff; cursor: pointer;">pairplot</a></span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">(</span><span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">iris</span><span class="o" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">.</span><span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">drop</span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">(</span><span class="s2" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #ba2121;">"Id"</span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">,</span> <span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">axis</span><span class="o" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">=</span><span class="mi" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #666666;">1</span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">),</span> <span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">hue</span><span class="o" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">=</span><span class="s2" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #ba2121;">"Species"</span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">,</span> <span class="n" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">size</span><span class="o" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #055be0;">=</span><span class="mi" style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: #666666;">3</span><span class="p" style="text-rendering: auto; -webkit-font-smoothing: antialiased;">)</span></pre></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-981f7d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="981f7d1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-155debd" data-id="155debd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e36e0cd elementor-widget elementor-widget-image" data-id="e36e0cd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="558" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/9b.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/9b.png 934w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/9b-300x262.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/9b-768x670.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
 				</div>
 				</div>
 						</div>
