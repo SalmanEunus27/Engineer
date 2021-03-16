@@ -12,7 +12,7 @@
 	<atom:link href="https://salmaneunus27.github.io/Engineer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salmaneunus27.github.io/Engineer</link>
 	<description></description>
-	<lastBuildDate>Tue, 16 Mar 2021 15:43:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Mar 2021 16:28:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1477,6 +1477,23 @@
 								</div>
 					</div>
 		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c6d746d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c6d746d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0446304" data-id="0446304" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e4c59e4 elementor-widget elementor-widget-text-editor" data-id="e4c59e4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><em style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgba(0, 0, 0, 0.7); font-family: Inter, sans-serif;">Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features.</em></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-c41841c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c41841c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -1487,23 +1504,6 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
 										<img width="640" height="568" src="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/Capture10.png" class="attachment-large size-large" alt="" srcset="https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/Capture10.png 906w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/Capture10-300x266.png 300w, https://salmaneunus27.github.io/Engineer/wp-content/uploads/2021/03/Capture10-768x682.png 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c6d746d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c6d746d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0446304" data-id="0446304" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-e4c59e4 elementor-widget elementor-widget-text-editor" data-id="e4c59e4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><em style="text-rendering: auto; -webkit-font-smoothing: antialiased; color: rgba(0, 0, 0, 0.7); font-family: Inter, sans-serif;">Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features.</em></p></div>
 				</div>
 				</div>
 						</div>
